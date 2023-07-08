@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\itlamyApp.APII.props" />
+</Project>

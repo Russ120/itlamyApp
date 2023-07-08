@@ -1,0 +1,10 @@
+C:\ProjectMVC\itlamyApp\itlamyAppSol\itlamyAppDAL\bin\Debug\netstandard2.1\itlamyApp.DAL.deps.json
+C:\ProjectMVC\itlamyApp\itlamyAppSol\itlamyAppDAL\bin\Debug\netstandard2.1\itlamyApp.DAL.dll
+C:\ProjectMVC\itlamyApp\itlamyAppSol\itlamyAppDAL\bin\Debug\netstandard2.1\itlamyApp.DAL.pdb
+C:\ProjectMVC\itlamyApp\itlamyAppSol\itlamyAppDAL\obj\Debug\netstandard2.1\itlamyApp.DAL.csproj.AssemblyReference.cache
+C:\ProjectMVC\itlamyApp\itlamyAppSol\itlamyAppDAL\obj\Debug\netstandard2.1\itlamyApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectMVC\itlamyApp\itlamyAppSol\itlamyAppDAL\obj\Debug\netstandard2.1\itlamyApp.DAL.AssemblyInfoInputs.cache
+C:\ProjectMVC\itlamyApp\itlamyAppSol\itlamyAppDAL\obj\Debug\netstandard2.1\itlamyApp.DAL.AssemblyInfo.cs
+C:\ProjectMVC\itlamyApp\itlamyAppSol\itlamyAppDAL\obj\Debug\netstandard2.1\itlamyApp.DAL.csproj.CoreCompileInputs.cache
+C:\ProjectMVC\itlamyApp\itlamyAppSol\itlamyAppDAL\obj\Debug\netstandard2.1\itlamyApp.DAL.dll
+C:\ProjectMVC\itlamyApp\itlamyAppSol\itlamyAppDAL\obj\Debug\netstandard2.1\itlamyApp.DAL.pdb

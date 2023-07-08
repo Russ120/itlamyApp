@@ -1,0 +1,10 @@
+C:\ProjectMVC\itlamyApp\itlamyAppSol\itlamyAppSL\bin\Debug\netstandard2.1\itlamyApp.SL.deps.json
+C:\ProjectMVC\itlamyApp\itlamyAppSol\itlamyAppSL\bin\Debug\netstandard2.1\itlamyApp.SL.dll
+C:\ProjectMVC\itlamyApp\itlamyAppSol\itlamyAppSL\bin\Debug\netstandard2.1\itlamyApp.SL.pdb
+C:\ProjectMVC\itlamyApp\itlamyAppSol\itlamyAppSL\obj\Debug\netstandard2.1\itlamyApp.SL.csproj.AssemblyReference.cache
+C:\ProjectMVC\itlamyApp\itlamyAppSol\itlamyAppSL\obj\Debug\netstandard2.1\itlamyApp.SL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectMVC\itlamyApp\itlamyAppSol\itlamyAppSL\obj\Debug\netstandard2.1\itlamyApp.SL.AssemblyInfoInputs.cache
+C:\ProjectMVC\itlamyApp\itlamyAppSol\itlamyAppSL\obj\Debug\netstandard2.1\itlamyApp.SL.AssemblyInfo.cs
+C:\ProjectMVC\itlamyApp\itlamyAppSol\itlamyAppSL\obj\Debug\netstandard2.1\itlamyApp.SL.csproj.CoreCompileInputs.cache
+C:\ProjectMVC\itlamyApp\itlamyAppSol\itlamyAppSL\obj\Debug\netstandard2.1\itlamyApp.SL.dll
+C:\ProjectMVC\itlamyApp\itlamyAppSol\itlamyAppSL\obj\Debug\netstandard2.1\itlamyApp.SL.pdb
